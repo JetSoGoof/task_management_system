@@ -59,5 +59,5 @@ if __name__ == "__main__":
     manager.add_task("Learn Git", "2024-08-01")
     manager.add_task("Practice OOP", "2024-08-05")
     manager.list_tasks()
-    manager.mark_task_completed(1)
+    manager.mark_task_completed(1)#
     manager.list_tasks()
